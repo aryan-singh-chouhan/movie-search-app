@@ -229,31 +229,3 @@ h1 {
     margin: 1rem;
   }
 }
-/* MovieDetails css */
-
-.Details_Container{
-  display: flex;
-  justify-self: center;
-  align-items: center;
-  margin-top: 100px;
-}
-.moviedetail{
-  height:800px;
-  width: 1500px;
-  border: white solid 1px;
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
-}
-
-.Detail_poster{
-  height: 600px;
-  width: 450px;
-  border: white solid 1px;
-}
-
-.movie_discription{
-  height: 600px;
-  width: 750px;
-  border: white solid 1px;
-}
